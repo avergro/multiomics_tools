@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-#Febrero 10 2017
+#Feb 10 2017
 #Author: Alexander Vergara
 
 #PARSER AND FILTER OF ENRICHMENTS coming from GeneMerge Output tables
